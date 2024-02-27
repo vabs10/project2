@@ -7,7 +7,6 @@ import {
   AlertHeading,
 } from "react-bootstrap";
 import { CheckLg, XLg } from "react-bootstrap-icons";
-import { Link } from "react-router-dom";
 
 const Business = () => {
   return (
